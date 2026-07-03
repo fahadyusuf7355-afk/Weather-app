@@ -49,3 +49,18 @@ button:hover{
     margin-top:20px;
     
 }
+footer {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+
+    text-align: right;
+    color: white;
+    font-size: 15px;
+    opacity: 0.8;
+    line-height: 1.6;
+}
+
+footer strong {
+    color: #f1ba05;
+}
